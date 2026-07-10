@@ -1,0 +1,17 @@
+{
+  "actorSpecification": 1,
+  "name": "japan-company-leads-mcp",
+  "title": "Japan Company Leads Finder MCP (日本企業リード検索)",
+  "description": "MCP server for B2B lead generation in Japan. Search 1M+ companies by size, capital, location & subsidy history — official METI gBizINFO data.",
+  "version": "0.1",
+  "buildTag": "latest",
+  "usesStandbyMode": true,
+  "webServerMcpPath": "/mcp",
+  "input": {
+    "title": "Japan Company Leads Finder MCP",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {},
+    "required": []
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "tool-call": {
+    "eventTitle": "MCP tool call",
+    "eventDescription": "One company search, profile, subsidy-history, or procurement retrieval",
+    "eventPriceUsd": 0.02
+  }
+}
